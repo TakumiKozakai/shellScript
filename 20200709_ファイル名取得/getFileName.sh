@@ -1,4 +1,3 @@
-cd csv
-for filename in *.csv; do
+for filename in cd/*.csv; do
   echo $filename
 done
