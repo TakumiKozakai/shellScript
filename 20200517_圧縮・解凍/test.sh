@@ -1,3 +1,4 @@
+#!/bin/bash
 echo '＝＝＝処理開始＝＝＝'
 echo ''
 
